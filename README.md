@@ -1,4 +1,4 @@
-# readmission-risk-prediction-api
+# Readmission-risk-prediction-api
 End-to-end machine learning pipeline to predict hospital readmission risk, including data preprocessing, model training, and a FastAPI-based prediction service with a working REST API.
 # 🏥 Hospital Readmission Prediction – End-to-End ML Pipeline
 
